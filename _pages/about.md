@@ -52,21 +52,22 @@ redirect_from:
 - [ Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA)](https://github.com),  J. Liu, Z. Lu, L. Chen, J. Yang and C. Yang.  Atlanta, USA. (Accepted, 机器人顶会)
 
 # 🎖 Honors and Awards
-陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日.
-陈路, 钱宇华, 吴鹏, 王克琪, 刘畅, 卢佳佳. 一种基于尺度不变网络的机器人目标抓取检测方法（ZL202010086282.7）, 授权日期：2022年11月11日.
-陈路, 钱宇华, 吴鹏, 王克琪. 一种基于多任务共享网络的机器人弱光环境抓取检测方法（ZL202110215147.2）, 授权日期：2022年05月31日.
-陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日.
+1. 陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日.
+2. 陈路, 钱宇华, 吴鹏, 王克琪, 刘畅, 卢佳佳. 一种基于尺度不变网络的机器人目标抓取检测方法（ZL202010086282.7）, 授权日期：2022年11月11日.
+3. 陈路, 钱宇华, 吴鹏, 王克琪. 一种基于多任务共享网络的机器人弱光环境抓取检测方法（ZL202110215147.2）, 授权日期：2022年05月31日.
+4. 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日.
 
 # 📖 Educations
- CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员
- 2024 International Conference on Industrial Technology, Track/Session Chair
- 2021 International Conference on Brain Informatics, Workshop Chair
- Frontiers in Artificial Intelligence, Special Issue Organizer
- Frontiers in Robotics and AI, Special Issue Editor
+ 1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员
+ 2. 2024 International Conference on Industrial Technology, Track/Session Chair
+ 3. 2021 International Conference on Brain Informatics, Workshop Chair
+ 4. Frontiers in Artificial Intelligence, Special Issue Organizer
+ 5. Frontiers in Robotics and AI, Special Issue Editor
 
 # 💬 Invited Talks
-  欢迎计算机（人工智能）、数学、自动化等专业背景同学报考课题组博士（每年1名）、硕士（每年4名）研究生，课题组科研氛围浓厚、软硬件支撑完备，将根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人能力。
-  要求：学习态度端正，对机器人背景下的视觉、人工智能课题感兴趣，具备较强的代码能力。有意者请将个人简历及能够体现个人学术、能力水平的材料发送至邮箱。  同时欢迎优秀本科生加入课题组开展基础科研工作。
+  - 欢迎计算机（人工智能）、数学、自动化等专业背景同学报考课题组博士（每年1名）、硕士（每年4名）研究生，课题组科研氛围浓厚、软硬件支撑完备，将根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人能力。
+  - 要求：学习态度端正，对机器人背景下的视觉、人工智能课题感兴趣，具备较强的代码能力。有意者请将个人简历及能够体现个人学术、能力水平的材料发送至邮箱。
+  - 同时欢迎优秀本科生加入课题组开展基础科研工作。
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
