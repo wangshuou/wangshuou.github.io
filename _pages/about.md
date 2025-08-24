@@ -49,7 +49,7 @@ redirect_from:
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [ Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA)](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 授权专利
 陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日.
