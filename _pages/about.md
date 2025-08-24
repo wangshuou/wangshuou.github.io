@@ -39,6 +39,7 @@ redirect_from:
 -  Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA) 
 </div>
 </div>
+- [ Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA)](https://github.com),  J. Liu, Z. Lu, L. Chen, J. Yang and C. Yang.  Atlanta, USA. (Accepted, 机器人顶会)
 
 -  J. Liu, Z. Lu, L. Chen, J. Yang and C. Yang. Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA), Atlanta, USA. (Accepted, 机器人顶会)
 - L. Chen, Z. Li, Z. Lu*, Y. Wang, H. Nie and C. Yang. Domain-Invariant Feature Learning via Margin and Structure Priors for Robotic Grasping. IEEE Robotics and Automation Letters, 2025, 10(2): 1313-1320. (TOP期刊)
