@@ -13,7 +13,7 @@ redirect_from:
 
 主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担1**重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目等省部级项目2项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TNNLS、TASE和ICRA、IROS等期刊会议审稿人。
 
-# 🔥 科学研究 {#scientific-research} 
+# 🛠️ 科学研究 {#scientific-research} 
 主要研究方向：
   1. 面向机器人智能抓取的目标感知关键技术研究
   2. 弱光、低可视环境下的图像增强及理解关键技术研究
@@ -40,15 +40,31 @@ redirect_from:
 </div>
 </div>
 
-- [ Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA)](https://github.com),  J. Liu, Z. Lu, L. Chen, J. Yang and C. Yang.  Atlanta, USA. (Accepted, 机器人顶会)
+-  J. Liu, Z. Lu, L. Chen, J. Yang and C. Yang. Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA), Atlanta, USA. (Accepted, 机器人顶会)
+- L. Chen, Z. Li, Z. Lu*, Y. Wang, H. Nie and C. Yang. Domain-Invariant Feature Learning via Margin and Structure Priors for Robotic Grasping. IEEE Robotics and Automation Letters, 2025, 10(2): 1313-1320. (TOP期刊)
+- L. Chen, M. Niu, J. Yang*, Y. Qian, Z. Li, K. Wang, T. Yan, P. Huang. Robotic Grasp Detection Using Structure Prior Attention and Multiscale Features. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024, 54(11): 7039-7053. (TOP期刊)
+- L. Chen, Z. Li, Z. Zhao, Z. Lu*, H. Wang, C. Yang. Efficient Visual Manipulation Relationship Reasoning with Relationship Attention and Sparse Graph in Robotic Grasping. IEEE Transactions on Automation Science and Engineering, 2024. (Accepted, TOP期刊)
+- H. Nie（本科生）, Z. Zhao, L. Chen*, Z. Lu, Z. Li, J. Yang. Smaller and Faster Robotic Grasp Detection Model via Knowledge Distillation and Unequal Feature Encoding. IEEE Robotics and Automation Letters, 2024, 9(8): 7206-7213. (TOP期刊)
+- Y. Song, Y. Lu, L. Chen, Y. Luo*. Hierarchical Multi-scale Enhanced Transformer for Medical Image Segmentation. IEEE Journal of Biomedical and Health Informatics, 2024, DOI: 10.1109/JBHI.2024.3515477. (TOP期刊)
+- Z. Zhao, D. Zheng, L. Chen*. Detecting Transitions from Stability to Instability in Robotic Grasping Based on Tactile Perception. Sensors, 2024, 24, 5080. (SCI 3区)
+- Y. Song, M. Zhang, J. Chang, L. Chen*. Multi-Scale Co-Attention Reinforced U-Net for Medical Image Segmentation. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024. (Accepted)
+- H. Wang, L. Chen*, Z. Guan. Dual-Branch Low-Light Image Enhancement via Spatial and Multi-Scale Frequency Domain Fusion. 2024 IEEE International Conference on Industrial Technology (ICIT), Bristol, United Kingdom, 2024, pp. 1-7. （会议最佳论文提名）
+- M. Niu, Z. Lu, L. Chen*, J. Yang, C. Yang. VERGNet: Visual Enhancement Guided Robotic Grasp Detection Under Low-Light Condition. IEEE Robotics and Automation Letters, 2023, 8(12): 8541-8548. (TOP期刊)
+- Z. Lu#, L. Chen#, H. Dai#, et al.. Visual-Tactile Robot Grasping Based on Human Skill Learning From Demonstrations Using a Wearable Parallel Hand Exoskeleton. IEEE Robotics and Automation Letters, 2023, 8(9): 5384-5391. (TOP期刊)
+- Y. Li, P. Huang*, Z. Ma and L. Chen. A Context-Free Method for Robust Grasp Detection: Learning to Overcome Contextual Bias. IEEE Transactions on Industrial Electronics, 2022, 69(12): 13121-13130. (TOP期刊)
+- L. Chen, P. Huang*, Y. Li and Z. Meng. Edge-dependent Efficient Grasp Rectangle Search in Robotic Grasp Detection. IEEE/ASME Transactions on Mechatronics, 2021, 26(6): 2922-2931. (TOP期刊)
+- L. Chen, P. Huang* and J. Cai. Extracting and Matching Lines of Low-textured Region in Close-range Navigation for Tethered Space Robot. IEEE Transactions on Industrial Electronics, 2019, 66(9): 7131-7140. (TOP期刊)
+- L. Chen, P. Huang* and Z. Meng. Convolutional Multi-Grasp Detection using Grasp Path for RGBD Images. Robotics and Autonomous Systems, 2019, 113: 94-103. (SCI 2区)
+- L. Chen, P. Huang* and Z. Zhao. Refining Object Proposals using Structured Edge and Superpixel Contrast in Robotic Grasping. Robotics and Autonomous Systems, 2018, 100: 194-205. (SCI 2区)
+- L. Chen, P. Huang*, J. Cai, Z. Meng and Z. Liu. A Non-cooperative Target Grasping Position Prediction Model for Tethered Space Robot. Aerospace Science and Technology, 2016, 58: 571-581. (TOP期刊)
 
-# 🎖 授权专利 {#granted-patent} 
+# 💡 授权专利 {#granted-patent} 
 - 陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日.
 - 陈路, 钱宇华, 吴鹏, 王克琪, 刘畅, 卢佳佳. 一种基于尺度不变网络的机器人目标抓取检测方法（ZL202010086282.7）, 授权日期：2022年11月11日.
 - 陈路, 钱宇华, 吴鹏, 王克琪. 一种基于多任务共享网络的机器人弱光环境抓取检测方法（ZL202110215147.2）, 授权日期：2022年05月31日.
 - 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日.
 
-# 📖 社会兼职 {#part-time-social-positions}  
+# 🏛️ 社会兼职 {#part-time-social-positions}  
  1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员
  2. 2024 International Conference on Industrial Technology, Track/Session Chair
  3. 2021 International Conference on Brain Informatics, Workshop Chair
