@@ -27,13 +27,13 @@ redirect_from:
   2. 弱光、低可视环境下的图像增强及理解关键技术研究
 
 主要科研项目情况：
-  1. 国家自然科学基金面上项目，面向动态光照条件的机器人抓取特征增强与优化机理研究，2024.01-2027.12 （主持）
-  2. 国家级纵向课题，***优化，2024.08-2027.08 （主持）
-  3. 山西省科技重大专项计划揭榜挂帅项目，面向基础设施电磁大数据的智能感知决策关键技术研究与示范应用，2023.01-2025.12 （青年技术挂帅人）
-  4. 国家级纵向课题 ，***视觉增强（主持）
-  5. 国家自然科学基金青年项目，基于骨架型表示和域知识迁移的机器人杂乱环境抓取检测，2021.01-2023.12 （主持）
-  6. 山西省高等学校科技创新项目，跨域、高动态场景下的机器人目标泛化抓取检测，2020.03-2022.03 （主持）
-  7. 横向课题，钢制安全壳水膜覆盖率图像识别与分析系统开发及测试，2021.01-2021.12 （主持）
+  国家自然科学基金面上项目，面向动态光照条件的机器人抓取特征增强与优化机理研究，2024.01-2027.12 （主持）
+  国家级纵向课题，***优化，2024.08-2027.08 （主持）
+  山西省科技重大专项计划揭榜挂帅项目，面向基础设施电磁大数据的智能感知决策关键技术研究与示范应用，2023.01-2025.12 （青年技术挂帅人）
+  国家级纵向课题 ，***视觉增强（主持）
+  国家自然科学基金青年项目，基于骨架型表示和域知识迁移的机器人杂乱环境抓取检测，2021.01-2023.12 （主持）
+  山西省高等学校科技创新项目，跨域、高动态场景下的机器人目标泛化抓取检测，2020.03-2022.03 （主持）
+  横向课题，钢制安全壳水膜覆盖率图像识别与分析系统开发及测试，2021.01-2021.12 （主持）
 
 # 📝 Publications 
 
@@ -58,11 +58,11 @@ redirect_from:
 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日.
 
 # 📖 社会兼职
-1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员
-2. 2024 International Conference on Industrial Technology, Track/Session Chair
-3. 2021 International Conference on Brain Informatics, Workshop Chair
-4. Frontiers in Artificial Intelligence, Special Issue Organizer
-5. Frontiers in Robotics and AI, Special Issue Editor
+ CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员
+ 2024 International Conference on Industrial Technology, Track/Session Chair
+ 2021 International Conference on Brain Informatics, Workshop Chair
+ Frontiers in Artificial Intelligence, Special Issue Organizer
+ Frontiers in Robotics and AI, Special Issue Editor
 
 # 💬 招生信息
   欢迎计算机（人工智能）、数学、自动化等专业背景同学报考课题组博士（每年1名）、硕士（每年4名）研究生，课题组科研氛围浓厚、软硬件支撑完备，将根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人能力。
