@@ -42,14 +42,14 @@ redirect_from:
 
 - [ Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA)](https://github.com),  J. Liu, Z. Lu, L. Chen, J. Yang and C. Yang.  Atlanta, USA. (Accepted, 机器人顶会)
 
-# 🎖 Honors and Awards
+# 🎖 授权专利
 授权专利：
 1. 陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日.
 2. 陈路, 钱宇华, 吴鹏, 王克琪, 刘畅, 卢佳佳. 一种基于尺度不变网络的机器人目标抓取检测方法（ZL202010086282.7）, 授权日期：2022年11月11日.
 3. 陈路, 钱宇华, 吴鹏, 王克琪. 一种基于多任务共享网络的机器人弱光环境抓取检测方法（ZL202110215147.2）, 授权日期：2022年05月31日.
 4. 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日.
 
-# 📖 Educations
+# 📖 社会兼职
  1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员
  2. 2024 International Conference on Industrial Technology, Track/Session Chair
  3. 2021 International Conference on Brain Informatics, Workshop Chair
