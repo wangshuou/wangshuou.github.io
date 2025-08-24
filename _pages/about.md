@@ -12,7 +12,7 @@ redirect_from:
 
 主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担1**重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目等省部级项目2项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TNNLS、TASE和ICRA、IROS等期刊会议审稿人。
 
-# 🔥 news
+# 🔥 科学研究
 主要研究方向：
   1. 面向机器人智能抓取的目标感知关键技术研究
   2. 弱光、低可视环境下的图像增强及理解关键技术研究
