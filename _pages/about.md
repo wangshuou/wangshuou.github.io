@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 陈路，山东省聊城人，副教授、博士生导师，太原卫星发射中心博士后，演化科学智能山西省重点实验室副主任，入选山西大学“文瀛青年学者”人才支持计划；担任中国计算机学会智能机器人专委会委员、中国自动化学会模式识别与机器智能专委会委员、中国计算机学会YOCSEF太原AC委员，Robot Learning期刊青年编委。
 
 主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担1**重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目等省部级项目2项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TNNLS、TASE和ICRA、IROS等期刊会议审稿人。
@@ -52,6 +43,7 @@ redirect_from:
 - [ Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA)](https://github.com),  J. Liu, Z. Lu, L. Chen, J. Yang and C. Yang.  Atlanta, USA. (Accepted, 机器人顶会)
 
 # 🎖 Honors and Awards
+授权专利：
 1. 陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日.
 2. 陈路, 钱宇华, 吴鹏, 王克琪, 刘畅, 卢佳佳. 一种基于尺度不变网络的机器人目标抓取检测方法（ZL202010086282.7）, 授权日期：2022年11月11日.
 3. 陈路, 钱宇华, 吴鹏, 王克琪. 一种基于多任务共享网络的机器人弱光环境抓取检测方法（ZL202110215147.2）, 授权日期：2022年05月31日.
