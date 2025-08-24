@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "科学研究"
-    url: "/#-news"
+  - title: "scientific research"
+    url: "/#-scientific research"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "granted patent"
+    url: "/#-granted patent"
 
-  - title: "授权专利"
-    url: "/#-educations"
+  - title: "part-time social positions"
+    url: "/#-part-time social positions"
 
-  - title: "社会兼职"
-    url: "/#-invited-talks"
+  - title: "Admission Information"
+    url: "/#-Admission Information"
 
   - title: "Internships"
     url: "/#-internships"
