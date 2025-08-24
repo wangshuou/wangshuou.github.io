@@ -27,7 +27,7 @@ redirect_from:
   6. 山西省高等学校科技创新项目，跨域、高动态场景下的机器人目标泛化抓取检测，2020.03-2022.03 （主持）
   7. 横向课题，钢制安全壳水膜覆盖率图像识别与分析系统开发及测试，2021.01-2021.12 （主持）
 
-# 📝 论文发表 {#publications}
+# 📝 学术论文 {#publications}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,11 +43,10 @@ redirect_from:
 - [ Occlusion-aware 6D Pose Estimation with Depth-guided Graph Encoding and Cross-semantic Fusion for Robotic Grasping. 2025 International Conference on Robotics and Automation (ICRA)](https://github.com),  J. Liu, Z. Lu, L. Chen, J. Yang and C. Yang.  Atlanta, USA. (Accepted, 机器人顶会)
 
 # 🎖 授权专利 {#granted-patent} 
-授权专利：
-1. 陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日.
-2. 陈路, 钱宇华, 吴鹏, 王克琪, 刘畅, 卢佳佳. 一种基于尺度不变网络的机器人目标抓取检测方法（ZL202010086282.7）, 授权日期：2022年11月11日.
-3. 陈路, 钱宇华, 吴鹏, 王克琪. 一种基于多任务共享网络的机器人弱光环境抓取检测方法（ZL202110215147.2）, 授权日期：2022年05月31日.
-4. 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日.
+- 陈路, 闫涛, 钱宇华, 吴鹏. 一种基于卡尔曼滤波与孪生网络的机器人目标跟踪方法（ZL202111189222.9）, 授权日期：2024年05月28日.
+- 陈路, 钱宇华, 吴鹏, 王克琪, 刘畅, 卢佳佳. 一种基于尺度不变网络的机器人目标抓取检测方法（ZL202010086282.7）, 授权日期：2022年11月11日.
+- 陈路, 钱宇华, 吴鹏, 王克琪. 一种基于多任务共享网络的机器人弱光环境抓取检测方法（ZL202110215147.2）, 授权日期：2022年05月31日.
+- 陈路. 一种多自由度成像角度可调节的目标图像自动采集装置（ZL202121406335.5），授权日期：2021年08月03日.
 
 # 📖 社会兼职 {#part-time-social-positions}  
  1. CCF智能机器人专委会委员，CAA模式识别与机器智能专委会委员
