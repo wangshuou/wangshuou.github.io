@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+# 👤 About Me {#about-me} 
 陈路，山东省聊城人，副教授、博士生导师，太原卫星发射中心博士后，演化科学智能山西省重点实验室副主任，入选山西大学“文瀛青年学者”人才支持计划；担任中国计算机学会智能机器人专委会委员、中国自动化学会模式识别与机器智能专委会委员、中国计算机学会YOCSEF太原AC委员，Robot Learning期刊青年编委。
 
 主要围绕“复杂、动态场景下的机器人智能感知”开展研究工作，先后承担1**重点项目课题、国防科技创新特区、国家自然科学基金（面上、青年）等国家级项目4项，山西省科技重大专项计划“揭榜挂帅”项目等省部级项目2项，企业委托项目多项；以第一或通讯作者在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE/ASME Transactions on Mechatronics、IEEE Transactions on Industrial Electronics、IEEE Robotics and Automation Letters和ICRA等高水平期刊、会议发表论文40余篇，授权专利10余项；长期担任TIE、TII、TSMCA、TNNLS、TASE和ICRA、IROS等期刊会议审稿人。
