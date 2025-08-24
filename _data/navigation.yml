@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me" 
+  - title: "个人简介"                
+    url: "/#about-me"
     
-  - title: "Scientific Research"
-    url: "/#scientific-research"  
+  - title: "科学研究"             
+    url: "/#scientific-research" 
     
-  - title: "Publications"
-    url: "/#publications" 
+  - title: "论文发表"             
+    url: "/#publications"   
     
-  - title: "Granted Patent"
-    url: "/#granted-patent"  
+  - title: "授权专利"             
+    url: "/#granted-patent"
     
-  - title: "Part-Time Social Positions"
-    url: "/#part-time-social-positions" 
+  - title: "社会兼职"              
+    url: "/#part-time-social-positions"
     
-  - title: "Admission Information"
-    url: "/#admission-information"  
+  - title: "招生信息"             
+    url: "/#admission-information" 
     
-  - title: "Internships"
-    url: "/#internships"  
+  - title: "实习经历"              
+    url: "/#internships"          
