@@ -46,7 +46,7 @@ redirect_from:
 - P. Wu, Z. Li, Z. Zhang, T. Yan and L. Chen. Three Preemption Approaches towards EDF Scheduling for Homogeneous Multiprocessors. 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS),2023, pp. 186-193.
 - J. Yang, C. Shang, L. Chen, P. Su and Q. Shen. Sparse Training Data-Based Hyperspectral Image Super Resolution Via ANFIS Interpolation. 2023 IEEE International Conference on Fuzzy Systems (FUZZ), 2023, pp. 1-6.
 - M. Niu, Z. Lu, L. Chen, J. Yang and C. Yang. VERGNet: Visual Enhancement Guided Robotic Grasp Detection Under Low-Light Condition. IEEE Robotics and Automation Letters, 2023, 8(12): 8541-8548.
-- Z. Lu#, L. Chen#, H. Dai#, et al.. Visual-Tactile Robot Grasping Based on Human Skill Learning From Demonstrations Using a Wearable Parallel Hand Exoskeleton. IEEE Robotics and Automation Letters, 2023, 8(9): 5384-5391.
+- Z. Lu#, L. Chen#, H. Dai#, et al. Visual-Tactile Robot Grasping Based on Human Skill Learning From Demonstrations Using a Wearable Parallel Hand Exoskeleton. IEEE Robotics and Automation Letters, 2023, 8(9): 5384-5391.
 - L. Chen, M. Niu, S. Wang, P. Wu and Y. Li. A Robust Object Tracking and Visual Servo Method for Mobile Robot. 2022 IEEE International Conference on Real-time Computing and Robotics (RCAR),2022, pp. 151-156.
 - Y. Li, P. Huang*, Z. Ma and L. Chen. A Context-Free Method for Robust Grasp Detection: Learning to Overcome Contextual Bias. IEEE Transactions on Industrial Electronics, 2022, 69(12): 13121-13130.
 - L. Chen, P. Huang*, Y. Li and Z. Meng. Edge-dependent Efficient Grasp Rectangle Search in Robotic Grasp Detection. IEEE/ASME Transactions on Mechatronics, 2021, 26(6): 2922-2931.
@@ -73,6 +73,3 @@ redirect_from:
   - 欢迎计算机（人工智能）、数学、自动化等专业背景同学报考课题组博士（每年1名）、硕士（每年4名）研究生，课题组科研氛围浓厚、软硬件支撑完备，将根据每位同学实际情况制定对应的培养方案，从理论研究和工程实践两方面不断提升个人能力。
   - 要求：学习态度端正，对机器人背景下的视觉、人工智能课题感兴趣，具备较强的代码能力。有意者请将个人简历及能够体现个人学术、能力水平的材料发送至邮箱。
   - 同时欢迎优秀本科生加入课题组开展基础科研工作。
-
-# 💻 实习经历 {#internships}  
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
