@@ -16,7 +16,4 @@ main:
     url: "/#part-time-social-positions"
     
   - title: "招生信息"             
-    url: "/#admission-information" 
-    
-  - title: "实习经历"              
-    url: "/#internships"          
+    url: "/#admission-information"          
