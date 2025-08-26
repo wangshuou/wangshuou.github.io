@@ -37,7 +37,7 @@ redirect_from:
 - Z. Zhao, D. Zheng, L. Chen*. Detecting Transitions from Stability to Instability in Robotic Grasping Based on Tactile Perception. Sensors, 2024, 24, 5080.
 - Y. Song, M. Zhang, J. Chang, L. Chen*. Multi-Scale Co-Attention Reinforced U-Net for Medical Image Segmentation. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024, pp. 2422-2429.
 - Y. Song, Y. Lu, L. Chen and Y. Luo. Hierarchical Multi-Scale Enhanced Transformer for Medical Image Segmentation. IEEE Journal of Biomedical and Health Informatics, 2024.
-- - L. Chen, M. Niu, J. Yang*, Y. Qian, Z. Li, K. Wang, T. Yan, P. Huang. Robotic Grasp Detection Using Structure Prior Attention and Multiscale Features. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024, 54(11): 7039-7053.
+- L. Chen, M. Niu, J. Yang*, Y. Qian, Z. Li, K. Wang, T. Yan, P. Huang. Robotic Grasp Detection Using Structure Prior Attention and Multiscale Features. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024, 54(11): 7039-7053.
 - J. Yang, T. Chen, L. Chen and J. Zhao. Towards A Clustering Guided Rule Interpolation for ANFIS Construction. IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2024, pp. 1-6.
 - H. Nie, Z. Zhao, L. Chen, Z. Lu, Z. Li and J. Yang. Smaller and Faster Robotic Grasp Detection Model via Knowledge Distillation and Unequal Feature Encoding. IEEE Robotics and Automation Letters, 2024, 9(8): 7206-7213.
 - Y. Gao, L. Chen and J. Liu. VAEPose: 6D Pose Estimation with Visual Appearance Enhancement for Low-Light Conditions. IEEE International Conference on Industrial Technology (ICIT), 2024, pp. 1-7.
